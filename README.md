@@ -302,29 +302,6 @@ If forecasting performance degrades or significant drift is detected, the model 
 
 ---
 
-#  Repository Structure
-
-```
-StockSense/
-│
-├── notebooks/
-│   └── Demand forecasting for inventory.ipynb
-│
-├── model/
-│   ├── model.pkl
-│   ├── feature_columns.pkl
-│   └── metrics.pkl
-│
-├── api/
-│   ├── main.py
-│   ├── predictor.py
-│   └── requirements.txt
-│
-└── README.md
-
-
-
----
 
 
 
