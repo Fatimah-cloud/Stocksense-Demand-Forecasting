@@ -252,6 +252,12 @@ The API generates the required engineered features before passing them to the tr
 }
 ```
 
+**API Development**
+- FastAPI implementation
+- Model serving
+- Prediction endpoint
+- Deployment
+
 ---
 
 #  Monitoring Plan
@@ -288,7 +294,6 @@ If forecasting performance degrades or significant drift is detected, the model 
 - FastAPI
 
 ---
----
 
 ## Team Members
 
@@ -323,8 +328,3 @@ StockSense/
 
 
 
-**API Development**
-- FastAPI implementation
-- Model serving
-- Prediction endpoint
-- Deployment
