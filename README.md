@@ -309,6 +309,7 @@ StockSense/
 │
 └── README.md
 
+
 ---
 
 ## Team Members
@@ -318,6 +319,8 @@ StockSense/
 
 ---
 
+
+---
 
 **API Development**
 - FastAPI implementation
