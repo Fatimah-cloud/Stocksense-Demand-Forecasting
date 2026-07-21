@@ -288,6 +288,14 @@ If forecasting performance degrades or significant drift is detected, the model 
 - FastAPI
 
 ---
+---
+
+## Team Members
+
+- Fatimah Alwarsh
+- Raed Almozel
+
+---
 
 #  Repository Structure
 
@@ -313,14 +321,7 @@ StockSense/
 
 ---
 
----
 
-## Team Members
-
-- Fatimah Alwarsh
-- Raed Almozel
-
----
 
 **API Development**
 - FastAPI implementation
