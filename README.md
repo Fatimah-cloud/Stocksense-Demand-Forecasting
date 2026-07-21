@@ -310,15 +310,15 @@ StockSense/
 └── README.md
 
 
+
+---
+
 ---
 
 ## Team Members
 
 - Fatimah Alwarsh
 - Raed Almozel
-
----
-
 
 ---
 
