@@ -295,7 +295,7 @@ If forecasting performance degrades or significant drift is detected, the model 
 StockSense/
 │
 ├── notebooks/
-│   └── demand_forecasting.ipynb
+│   └── Demand forecasting for inventory.ipynb
 │
 ├── model/
 │   ├── model.pkl
